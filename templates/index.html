@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livros</title>
+
+    <link rel="stylesheet" href="/static/css/estilo.css">
+</head>
+<body>
+    <header>
+        <img src="/static/imagens/logo.png" alt="">
+    </header>
+    <main>
+        <h1>Recomendações para compra</h1>
+        <div id="produtos">
+            {% for x in lista_livros["recomendacao"] %}
+            <div class="livro-corpo">
+                <div class="livro-imagem">
+                    <img src="{{x['imagem']}}" alt="">
+                </div>
+                <div class="livro-infos">
+                    <h3>{{x["nome"]}}</h3>
+                    <a href="{{x['link']}}"><p>{{x["preco"]}}R$</p></a>
+                    <p>{{x["descricao"]}}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </main>
+</body>
+</html>

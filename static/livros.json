@@ -1,0 +1,74 @@
+{
+    "recomendacao" : [
+        {
+            "nome" : "Duna",
+            "descricao" : "Essas é uma obra de fantasia/ficção científica bastante conhecida em todo o mundo, e foi escrita e publicada há mais de 50 anos. Ela inspirou posteriormente diversos grandes clássicos, como Star Wars. Escrita por Frank Herbert, esta obra se passa no futuro, 20 mil anos depois. Neste livro, imagina-se que os seres humanos tenham colonizado outros planetas e desenvolvido novas sociedades em cada um deles.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/10_duna_1_capa_dura__q2MCf.jpg",
+            "preco" : 47.90,
+            "link" : "https://www.amazon.com.br/Duna-Frank-Herbert/dp/857657313X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=62558883a75f55c0230b746ad4eccd13&language=pt_BR"
+        },
+        {
+            "nome" : "IT A Coisa",
+            "descricao" : "Sendo o livro mais vendido da parte de “terror e ficção” da Amazon, esse livro do Stephen King conta a história de 5 amigos – Mike, Eddie, Beverly, Bem, Richie e Stan – que vivem na cidade de Maine. A obra retrata as férias dessas crianças, na qual algo surpreendente acontece: elas se deparam com “it”, a coisa e precisam combatê-lo. Diante disso, a ficção retrata sentimentos de medo, amizade, esperança e amor.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/9_it_a_coisa_capa_co_F8eZD.jpg",
+            "preco" : 49.90,
+            "link" : "https://www.amazon.com.br/coisa-Stephen-King/dp/8560280944/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=bc4cd7312f8151b7561641ffd58d7b91&language=pt_BR"
+        },
+        {
+            "nome" : "A garota do lago",
+            "descricao" : "Essa obra conta a história de um crime cruel que ocorreu em uma pequena cidade chamada de Summit Lake. Uma menina chamada Rebecca Eckerlyé assassinada de forma brutal, e a cidade fica em choque com esse acontecimento. Rebecca sempre foi uma menina tímida e estudiosa, filha de um rico advogado conhecido da cidade. Ela não tinha muitos amigos, e aparentemente também não tinha inimigos.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/8_a_garota_do_lago_c_8FzHo.jpg",
+            "preco" : 12.79,
+            "link" : "https://www.amazon.com.br/Garota-do-Lago-Charlie-Donlea/dp/856240988X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=8c6f336b9c632a08bb8050e013d82a4b&language=pt_BR"
+        },
+        {
+            "nome" : "O maior segredo",
+            "descricao" : "Sendo um dos livros mais conhecidos no setor de “autoajuda”, essa obra de Rhonda é uma sequência de “o segredo”. Ele induz o leitor a encontrar a felicidade, o sucesso e a perfeição, dando dicas diárias de como melhorar as atitudes através de práticas de autoconhecimento.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/7_o_maior_segredo_ca_Q0eVc.jpg",
+            "preco" : 27.04,
+            "link" : "https://www.amazon.com.br/maior-segredo-Rhonda-Byrne/dp/6555110724/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=38860bd2819ffb6faa92c2069e9edbe6&language=pt_BR"
+        },
+        {
+            "nome" : "O poder do hábito",
+            "descricao" : "O livro “o poder do hábito” induz o indivíduo a identificar os seus hábitos e lançar uma percepção crítica sobre eles. Lendo o livro, o próprio leitor consegue identificar os seus hábitos negativos e compreender por que os tem, de modo a definir estratégias para modificá-los.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/6_o_poder_do_h__bito_HbSuv.jpg",
+            "preco" : 27.90,
+            "link" : "https://www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=36b9c41917d4adc60566a5e635040ad4&language=pt_BR"
+        },
+        {
+            "nome" : "O morro dos ventos uivantes",
+            "descricao" : "Essa maravilhosa obra de Emily Bront é um clássico romance da literatura inglesa. A obra retrata relações de amor e obsessão entre uma mulher, chamada de Catherine Earnshaw, e o seu irmão adotado. O livro retrata uma relação que se estende por bastante tempo, e que se mergulha em situações de amor e ódio.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/5_o_morro_dos_ventos_clk7q.jpg",
+            "preco" : 11.89,
+            "link" : "https://www.amazon.com.br/morro-dos-ventos-uivantes/dp/8594318235/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=e1d000783e1ca443f5ae64955c12183e&language=pt_BR"
+        },
+        {
+            "nome" : "Sapiens – Uma Breve História da Humanidade",
+            "descricao" : "Você deseja saber mais sobre a história da humanidade? Esse livro para ler conta a história da consolidação do homem como espécie “hominídeo”. O livro é dividido em três capítulos: revolução cognitiva; revolução agrícola e revolução científica.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/4_sapiens___uma_brev_dlmpI.jpg",
+            "preco" : 59.90,
+            "link" : "https://www.amazon.com.br/Sapiens-Uma-Breve-Hist%C3%B3ria-Humanidade/dp/8525432180/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=f418ec7c5caae71f399e4494946c9765&language=pt_BR"
+        },
+        {
+            "nome" : "O homem mais rico da Babilônia",
+            "descricao" : "Esse maravilhoso clássico foi escrito no ano de 1926 em um formato diferente: o de parábolas. Ele é um dos livros mais recomendados sobre o assunto de finanças pessoais, pois a obra retrata o período antigo da Babilônia e as suas riquezas.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/3_o_homem_mais_rico__C0vFm.jpg",
+            "preco" : 13.88,
+            "link" : "https://www.amazon.com.br/Homem-Mais-Rico-Babil%C3%B4nia/dp/8595081530/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=63a507e9cb0724c3bd2640a5f3ea5c21&language=pt_BR"
+        },
+        {
+            "nome" : "1984",
+            "descricao" : "O livro “1984” retrata a história de uma sociedade totalmente vigiada, e esse vigilância tem como objetivo controlar a vida da população. Durante a leitura do livro para ler é possível perceber que o autor retrata sobre o totalitarismo e as malezas sociais. A história retrata um futuro distópico no qual o Estado apresenta um regime totalitário e opressivo e a população sente medo da repressão imposta pelo governo.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/2_livro_1984_cpa_lea.jpg",
+            "preco" : 21.90,
+            "link" : "https://www.amazon.com.br/1984-George-Orwell/dp/8535914846/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=2e7f7f1b1ae813627ad6a8aceb7fedbe&language=pt_BR"
+        },
+        {
+            "nome" : "Mulheres que correm com os lobos",
+            "descricao" : "Sendo o 1º livro mais vendido da Amazon, a obra “mulheres que correm com os lobos” fala da relação da mulher consigo mesma e com a natureza, exaltando o “sagrado feminino”. Para isso, a autora retrata 19 lendas antigas – como sapatinho vermelho e barba azul – e as relaciona com a essência feminina.",
+            "imagem" : "https://www.casamelhor.com/wp-content/uploads/2020/12/1_mulheres_que_corre_WzJTg.jpg",
+            "preco" : 34.90,
+            "link" : "https://www.amazon.com.br/Mulheres-que-Correm-com-Lobos/dp/853252978X/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=casamelhor008-20&linkId=73c2b440876122920f0990ba4c4e1237&language=pt_BR"
+        }
+    ]
+}
